@@ -19,13 +19,22 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
+
+
 ### 🧑‍💻 About Me
 
+
 - 🔧 Backend engineer focused on building robust server-side applications
+
 - 🏗️ Passionate about clean architecture, APIs, and scalable systems
+
 - ☁️ Working with cloud infrastructure and observability tooling
+
 - 🌱 Always learning and exploring new backend technologies
+
 - 💬 Ask me about API design, databases, and system architecture
+
+
 
 <br clear="right"/>
 
@@ -62,17 +71,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Fernando-P&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/master/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/master/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/master/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/0-profile-details.svg" width="70%" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Top Languages by Repo" />
-  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Top Languages by Commit" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top Languages by Commit" />
 </div>
 
 ---
@@ -83,9 +94,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/output/github-snake.svg" width="100%" />
   </picture>
 </div>
+
+<br/>
+
 ---
 
 <div align="center">
