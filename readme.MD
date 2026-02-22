@@ -66,13 +66,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiz-Fernando-P&theme=tokyonight" width="70%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/0-profile-details.svg" width="70%" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiz-Fernando-P&theme=tokyonight" width="32%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luiz-Fernando-P&theme=tokyonight" width="32%" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luiz-Fernando-P&theme=tokyonight" width="32%" alt="Top Languages by Commit" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/Luiz-Fernando-P/Luiz-Fernando-P/profile-summary-card-output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Top Languages by Commit" />
 </div>
 
 ---
